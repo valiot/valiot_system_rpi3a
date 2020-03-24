@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Raspberry Pi 3 Model A+ Gadget!
 
 [![CircleCI](https://circleci.com/gh/nerves-project/nerves_system_rpi3a.svg?style=svg)](https://circleci.com/gh/nerves-project/nerves_system_rpi3a)
@@ -184,4 +183,4 @@ initializing the application partition, and enabling ssh-based firmware updates.
 
 ## Description
 
->>>>>>> de4f30f3a1efc86cd3a3b81aec617671fd015f91
+This is the base Nerves System configuration for the Raspberry Pi 3 Model A+ for Valiot.
