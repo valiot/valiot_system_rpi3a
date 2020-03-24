@@ -64,8 +64,8 @@ defmodule ValiotSystemRpi3a.MixProject do
 
   defp package do
     [
-      maintainers:["Aldebaran Alonso", "Víctor Medrano", "Valiot"]
-      files: package_files(),
+      
+	files: package_files(),
       licenses: ["Apache 2.0"],
       links: %{"GitHub" => "https://github.com/valiot/#{@app}"}
     ]
@@ -109,7 +109,7 @@ defmodule ValiotSystemRpi3a.MixProject do
     if function_exported?(Mix, :target, 1) do
       apply(Mix, :target, [:target])
     else
-      System.put_env("MIX_TARGET", "valiot_rpi3a")
+      System.put_env("MIX_TARGET", "target")
     end
   end
 end
