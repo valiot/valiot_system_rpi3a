@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raspberry Pi 3 Model A+ Gadget!
 
 [![CircleCI](https://circleci.com/gh/nerves-project/nerves_system_rpi3a.svg?style=svg)](https://circleci.com/gh/nerves-project/nerves_system_rpi3a)
@@ -178,3 +179,9 @@ started with the basics like bringing up the virtual Ethernet interface,
 initializing the application partition, and enabling ssh-based firmware updates.
 
 [Image credit](#rpi): This image is from [raspberrypi.org](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/).
+=======
+# valiot_system_rpi3a
+
+## Description
+
+>>>>>>> de4f30f3a1efc86cd3a3b81aec617671fd015f91
