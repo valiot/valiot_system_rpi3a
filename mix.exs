@@ -64,7 +64,7 @@ defmodule ValiotSystemRpi3a.MixProject do
 
   defp package do
     [
-      maintainers:["Aldebaran Alonso", "Víctor Medrano", "Valiot"]
+      maintainers: ["Aldebaran Alonso", "Víctor Medrano", "Valiot"],
       files: package_files(),
       licenses: ["Apache 2.0"],
       links: %{"GitHub" => "https://github.com/valiot/#{@app}"}
